@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_default_margin">16dp</dimen>
+    <dimen name="welcome_text_size">36sp</dimen>
+    <dimen name="profile_margin_default">16dp</dimen>
+    <dimen name="divider_weight">3dp</dimen>
+    <dimen name="image_height">280dp</dimen>
+</resources>

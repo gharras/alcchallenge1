@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="btn_about_alc_text">ABOUT ALC</string>
+    <string name="btn_my_profile_text">MY PROFILE</string>
+    <string name="about_alc">About ALC</string>
+    <string name="track_text">Track</string>
+    <string name="country_text">Country</string>
+    <string name="email_text">Email</string>
+    <string name="phone_number_text">Phone Number</string>
+    <string name="slack_username_text">Slack Username</string>
+    <string name="track_value">Android</string>
+    <string name="country_value">Morocco</string>
+    <string name="email_value">med.gharras@gmail.com</string>
+    <string name="phone_number_value">212600062496</string>
+    <string name="slack_username_value">\@gharras mohammed</string>
+    <string name="name_value">Mohammed GHARRAS</string>
+</resources>

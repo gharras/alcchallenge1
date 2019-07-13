@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+    android:id="@+id/txWelcome"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/welcome_default_margin"
+    android:layout_marginTop="@dimen/welcome_default_margin"
+    android:layout_marginEnd="@dimen/welcome_default_margin"
+    android:fontFamily="cursive"
+    android:gravity="center"
+    android:text="@string/welcome_to_alc"
+    android:textAlignment="center"
+    android:textAppearance="@style/TextAppearance.AppCompat.Large"
+    android:textSize="@dimen/welcome_text_size"
+    android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnAboutAlc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@color/button_color"
+        android:text="@string/btn_about_alc_text" />
+
+    <Button
+        android:id="@+id/btnMyProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@color/button_color"
+        android:text="@string/btn_my_profile_text" />
+
+</LinearLayout>
